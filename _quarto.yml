@@ -1,0 +1,6 @@
+project:
+  type: website
+  output-dir: _publish
+
+website: 
+  title: "I want to believe"

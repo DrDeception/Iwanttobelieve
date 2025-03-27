@@ -1,0 +1,1195 @@
+---
+title: "I want to believe..."
+subtitle: "in Psychological Profiling"
+author: "Dr. Gordon Wright"
+institute: "LittleMonkeyLab@Goldsmiths"
+date: last-modified
+date-format: "DD MMM, YYYY"
+format: 
+  LMLslides-revealjs: 
+    footer: "I want to believe..."
+    preview-links: true
+    width: 1600
+    height: 900
+    embed-resources: true
+    title-slide-attributes:
+      data-background-color: white
+      data-background-size: contain
+      scrollable: true
+  LMLslides-html: 
+    output-ext: htm
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+![](images/FoxMulder.png)
+
+::: notes
+I am channeling Fox Mulder, trying to be critical but open to the underlying ideas behind profiling practices.
+
+<https://www.youtube.com/watch?v=Ho6t683GazQ>
+
+Mind palace
+
+<https://www.youtube.com/watch?v=0FSKTndbwVo>
+
+Example of detached observation
+
+<https://youtu.be/0aZOOcTt0E4?si=0VAbBCiIaNGgo_kj&t=76>
+
+Patrick Jane Solves a crime
+
+<https://youtu.be/tYhFAOUt1Fs?si=8H6LcPkNS1tj_7Wa>
+
+The standard Criminal Minds Profile <https://www.youtube.com/watch?v=PRxYaK9fgl8>
+:::
+
+## The Profiling Fantasy: A Love Letter
+
+::::: columns
+::: {.column width="60%"}
+-   The brilliant profiler who sees what others miss\
+-   "The unsub is a white male in his 30s..."\
+-   Dramatic insights that crack impossible cases\
+-   Catching killers through psychology alone
+
+**What if we *could* read criminals' minds?**
+:::
+
+::: {.column width="40%"}
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAyZ3RkeWdkaXZnYTJnb3J4OWR5emdsa21zMHFqaHY2cDd4bDdobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYBUM1Lh85yX0k0/giphy.gif)
+:::
+:::::
+
+::: notes
+This trope is deeply embedded in our cultural understanding of crime-solving.
+The fantasy is compelling because it promises order in a chaotic world.
+:::
+
+## The Cast of Hollywood Profilers
+
+-   [**Criminal Minds** BAU team: weekly serial killer hunts](https://www.youtube.com/watch?v=PRxYaK9fgl8)
+-   [**Silence of the Lambs** Clarice Starling (and Hannibal Lecter)](https://www.youtube.com/watch?v=bIahXVJrvT0)
+-   [**Mindhunter** Holden Ford developing the first profiles](https://youtu.be/JwaXbrPQnHU?si=nNJxKnITZcWSjSLK&t=55)
+-   [**Lie to Me** Cal Lightman reading microexpressions](https://www.youtube.com/watch?v=bWyhsqh_e9s)
+-   [**Hannibal** Will Graham's "pure empathy"](https://www.youtube.com/watch?v=amgWCwbYBNY)
+
+**Popular culture shapes expectations of what profiling can do.**
+
+::: notes
+These characters represent different psychological approaches to understanding criminal behavior.
+They create expectations that may not align with scientific reality.
+:::
+
+## From Fiction to Science: Our Roadmap
+
+Today we'll examine the research evidence for:
+
+1.  Core scientific assumptions behind profiling
+2.  Observational psychology methods (Thin Slices, Snooping)
+3.  Behavioral analysis and pattern recognition
+4.  Emotional and personality assessment techniques
+5.  Deception detection capabilities
+6.  Modern empirical approaches and digital transformation
+
+**What does the research actually tell us?**
+
+::: notes
+We'll explore each fictional portrayal alongside the actual research evidence.
+The goal is to separate Hollywood fantasy from scientific reality.
+:::
+
+# 2. Core Scientific Foundations & Assumptions
+
+## The Scientific Foundations of Profiling
+
+::: notes
+Let's examine the actual scientific theories that underpin profiling practices.
+:::
+
+## Theoretical Underpinnings
+
+Three key assumptions determine if profiling can work:
+
+-   **Homology Assumption**: Similar crimes → similar perpetrators
+-   **Behavioral Consistency**: Crimes committed similarly by same individual
+-   **Behavioral Differentiation**: Different offenders act differently
+
+::: notes
+These are testable assumptions that form the scientific basis of profiling.
+If these don't hold true in research, the entire foundation becomes questionable.
+:::
+
+[Mokros & Alison, 2002](https://doi.org/10.1348/135532502168360)
+
+## The Homology Assumption
+
+**The Claim**: People who commit similar crimes will share similar characteristics
+
+**The Evidence**:
+
+-   Limited empirical support
+-   Canter & Heritage (1990): Some patterns in sexual offenses
+-   Mokros & Alison (2002): Weak statistical relationship between crime features and offender characteristics
+-   Most research finds correlations weaker than expected
+
+**Research Finding**: We can't reliably infer specific offender traits just from crime scene behaviour
+
+::: notes
+This challenges the core assumption behind typical TV profiling.
+The research suggests much more limited inferences are possible than fiction portrays.
+:::
+
+## Behavioral Consistency & Differentiation
+
+**Consistency**: Individual offenders maintain patterns across crimes
+
+-   Stronger scientific support
+-   Geographic patterns especially consistent (Rossmo, 2000)
+-   MO elements show moderate consistency (Woodhams & Toye, 2007)
+-   Helps link series of crimes to same perpetrator
+
+**Differentiation**: Different offenders show distinct patterns
+
+-   Mixed support in research
+-   Salfati & Bateman (2005): Distinct themes in homicide behaviors
+-   Limited variation in some crime types (Bennell & Canter, 2002)
+
+**Research Finding**: Better at linking crimes than predicting offender traits
+
+::: notes
+Research shows these principles can help link crimes, but not necessarily identify offenders.
+This aligns more with case linkage than traditional profiling.
+:::
+
+## Sherlock Holmes: Deductive vs. Abductive Reasoning
+
+**Holmes' Approach**:
+
+-   Deductive reasoning: General theory → specific case
+-   *"Once you eliminate the impossible, whatever remains..."*
+-   Perfect observational abilities
+
+**Scientific Reality**:
+
+-   Abductive reasoning predominates (specific → general)
+-   Inferences limited by available evidence (Rossmo, 2009)
+-   Experts show modest improvements in observational skills (Tong et al., 2009)
+
+**Research shows**: Training improves investigative reasoning, but not to Holmes' level
+
+::: notes
+Holmes represents the idealized detective whose reasoning skills exceed human capability.
+Research on expert vs. novice investigators shows improvement with training, but not perfection.
+:::
+
+## Cognitive Biases: The Scientific Reality
+
+**Holmes' Fiction**: Immune to cognitive biases
+
+**Research Reality**: Investigators face numerous biases
+
+-   **Confirmation bias**: 84% of experienced investigators vulnerable (Ask & Granhag, 2005)
+-   **Tunnel vision**: Led to wrongful convictions in 78% of exoneration cases (Innocence Project)
+-   **Anchoring**: First impressions affect interpretation of subsequent evidence (Eerland & Rassin, 2012)
+
+**Research finding**: Structured review processes help mitigate these biases (Rossmo, 2016)
+
+::: notes
+The scientific study of decision-making in investigations reveals significant vulnerabilities.
+Unlike Holmes, real investigators need structured approaches to overcome human cognitive limitations.
+:::
+
+## From Fiction to Science-Based Investigation
+
+**Fiction**: Individual brilliance solves cases
+
+**Science**: Structured methodologies outperform intuition
+
+**Research-Supported Approaches**:
+
+-   Multiple hypothesis testing (Heuer, 1999)
+-   Standardized review protocols (Geberth, 2006)
+-   Team-based analysis to counter individual bias (Alison et al., 2014)
+-   Documentation of reasoning processes (Keppens & Schafer, 2006)
+
+**Research finding**: Systematic approaches consistently outperform clinical judgment alone
+
+::: notes
+The research clearly shows structured approaches work better than relying on individual intuition.
+This contradicts the Hollywood portrayal of the lone brilliant profiler.
+:::
+
+### 3. Observational Psychology in Profiling
+
+# Observational Psychology in Profiling
+
+::: notes
+Now we'll explore research on how we observe and interpret human behaviour and environments.
+:::
+
+## Thin Slices: The Science of Quick Impressions
+
+**The Concept**: Forming accurate judgments from brief observations
+
+**Research Evidence**:
+
+-   Ambady & Rosenthal (1992): 30-second observations predict teaching evaluations
+-   Carney et al. (2007): Thin-slice judgments of personality show above-chance accuracy
+-   Rule & Ambady (2008): CEOs' facial features correlate with company performance
+
+**Limitations**:
+
+-   Accuracy varies by trait (Extraversion easier than Neuroticism)
+-   Cultural and contextual factors affect judgment (Matsumoto & Hwang, 2011)
+
+**Application**: Supports some observational techniques but far from mind-reading
+
+::: notes
+The research on thin slices suggests we can make some limited inferences quickly.
+However, accuracy is much more constrained than portrayed in fiction.
+:::
+
+## Snooping: Environmental Analysis Research
+
+**The Concept**: Inferring personality from personal spaces and possessions
+
+**Research Evidence**:
+
+-   Gosling et al. (2002): Office/bedroom cues predict Big Five traits
+-   Accuracy highest for Openness (r=.65) and Conscientiousness (r=.60)
+-   Mehl et al. (2006): Personal music collections correlate with personality
+-   Harris & Sachau (2005): Book preferences reflect personality traits
+
+**Limitations**:
+
+-   Self-presentation strategies can obscure traits
+-   Shared spaces confound individual differences
+
+**Application**: Provides investigative leads but not definitive profiles
+
+::: notes
+Gosling's research provides empirical support for some "snooping" techniques.
+However, accuracy levels and confounding factors limit their investigative use.
+:::
+
+## Digital Snooping: Online Behaviour Research
+
+**The Concept**: Inferring personality and behavior from digital traces
+
+**Research Evidence**:
+
+-   Kosinski et al. (2013): Facebook likes predict personality traits with 70-85% accuracy
+-   Park et al. (2015): Language use in social media correlates with Big Five traits
+-   Youyou et al. (2015): Computer predictions can exceed self-report accuracy
+-   add Jeff Hancock - deception reviews trip advisor study..
+
+**Limitations**:
+
+-   Privacy concerns and ethical considerations
+-   Self-presentation differs online vs. offline (Back et al., 2010)
+
+**Application**: Digital behavior provides valuable investigative data points
+
+::: notes
+Digital footprints offer potentially more reliable insights than traditional "snooping." The research suggests algorithmic approaches to digital behaviour analysis may be more accurate than human judgment.
+:::
+
+## Empathy vs. Research: Understanding Offenders
+
+**The Fiction**: Will Graham's "pure empathy" allows him to become the killer
+
+**The Science**:
+
+-   Davis (1983): Empathy comprises distinct cognitive and affective components
+-   Young et al. (2012): Expert investigators show moderate perspective-taking abilities
+-   Decety & Yoder (2016): Moral judgment and empathy neurologically linked
+
+**Research Findings**:
+
+-   Professional empathy differs from fictional portrayals
+-   Training improves perspective-taking (Hogan & Henley, 2007)
+-   Cognitive empathy more valuable than emotional empathy in investigations
+
+::: notes
+Research on empathy shows it's a trainable skill with cognitive components.
+This differs dramatically from Will Graham's supernatural "becoming."
+:::
+
+## From TV Fantasy to Evidence-Based Observation
+
+**Fiction**:
+
+-   Instant personality analysis from objects
+-   Perfect "mind reading" from behavior
+-   Supernatural empathy with criminals
+
+**Research-Supported Reality**:
+
+-   Structured environmental assessment protocols (Gosling et al., 2008)
+-   Multiple source triangulation methods (Miller et al., 2015)
+-   Team-based analysis to reduce individual bias (Alison et al., 2010)
+
+**Research Finding**: Systematic observation protocols outperform intuitive judgments
+
+::: notes
+The research consistently shows that structured approaches to observation and analysis produce more reliable results than intuitive methods portrayed in fiction.
+:::
+
+## Observational Methods: Research Application
+
+**Case Study**: Bennell et al. (2012) residence analysis study
+
+-   Trained observers assessed 70 residences using structured protocol
+-   Correctly identified 68% of resident personalities (vs. 36% chance)
+-   Most accurate for Conscientiousness and Openness
+-   Least accurate for Neuroticism
+
+**Investigative Implications**:
+
+-   Environmental analysis has empirical support for limited traits
+-   Requires standardized protocols and trained observers
+-   Works best as one component in a multi-method approach
+
+::: notes
+This research demonstrates both the potential and limitations of observational methods.
+The accuracy levels, while above chance, are far below the perfect insights shown in fiction.
+:::
+
+### 4. Behavioral Analysis & Pattern Recognition
+
+# Behavioral Analysis & Pattern Recognition
+
+::: notes
+Now we'll examine the science behind analyzing criminal behavior patterns.
+:::
+
+## The Real BAU vs. Criminal Minds
+
+**Fiction**:
+
+-   Private jet to crime scenes nationwide
+-   Perfect hit rates on predictions
+-   Weekly serial killers with elaborate signatures
+
+**Research Reality** (Burgess et al., 2006):
+
+-   Primarily consults on rare, difficult cases
+-   Provides analytical support, not field arrests
+-   Focuses on behavior patterns rather than psychoanalysis
+-   Contributes to approximately 1,000 cases annually
+
+**Research-Based Role**: Analytical support using empirically-tested methods
+
+::: notes
+The actual FBI Behavioral Analysis Unit operates quite differently from its fictional portrayal.
+Their work is more methodical and consultative than shown on TV.
+:::
+
+## The Organized/Disorganized Typology: Research Evidence
+
+**The Typology**:
+
+-   **Organized**: Methodical, planning, controlled crime scenes
+-   **Disorganized**: Impulsive, chaotic crime scenes
+
+**Research Findings**:
+
+-   Canter et al. (2004): Most offenders show mixed characteristics
+-   Snook et al. (2008): Typology lacks empirical validation
+-   Taylor et al. (2012): Dimensional approach more accurate than categorical
+
+**Research Conclusion**: Oversimplified dichotomy with limited empirical support.
+Discuss Crime Classification Manual HERE!!
+
+::: notes
+This famous typology, while dramatically appealing, has not held up well to scientific scrutiny.
+The research suggests a more complex, dimensional approach is needed.
+:::
+
+## Geographic Profiling: The Most Scientific Element
+
+**The Concept**: Analyzing spatial patterns of linked crimes
+
+**Research Evidence**:
+
+-   Rossmo (2000): Distance decay function predicts offender base
+-   Bernasco & Block (2009): Criminals operate in familiar areas
+-   Hammond & Youngs (2011): Geographic profiling outperforms chance by factor of 4
+-   Add Olivia Heald's Masters project with Steve Le Comber - parrots
+
+**Empirical Effectiveness**:
+
+-   Search area reduction of 75-90% (Rossmo & Rombouts, 2008)
+-   Most effective with at least 5 linked crimes (Santtila et al., 2008)
+-   Algorithmic approaches outperform human judgment (Paulsen, 2006)
+
+::: notes
+Geographic profiling shows the strongest scientific support among profiling techniques.
+The research demonstrates clear, measurable effectiveness for this approach.
+:::
+
+## Narrative Roles: Research-Based Criminal Psychology
+
+**The Concept**: Offenders enact distinct narrative "roles" during crimes
+
+**Research Evidence**:
+
+-   Canter & Youngs (2009): Four dominant narrative themes (Hero, Victim, Professional, Revenger)
+-   Ioannou et al. (2017): Narratives correlate with crime types and methods
+-   Youngs & Canter (2012): Narrative roles predict behavioral patterns
+
+**Applications**:
+
+-   Narrative-based interview strategies (Canter & Youngs, 2015)
+-   Crime scene analysis through narrative lens (Kocsis, 2009)
+-   Linking crimes based on narrative consistency (Spruin & Siesmaa, 2017)
+
+Seems kinda similar to Holden Ford and MindHunter, right?
+
+::: notes
+The narrative roles approach offers a research-supported alternative to traditional profiling.
+It focuses on how offenders see themselves rather than psychoanalytic speculation.
+:::
+
+## Case Linkage Analysis: The Science
+
+**The Concept**: Connecting crimes based on behavioral similarities
+
+**Research Evidence**:
+
+-   Woodhams et al. (2007): 82% accuracy in linking serial rapes
+-   Bennell & Jones (2005): Geographic proximity most reliable linking factor
+-   Tonkin et al. (2012): Linking algorithms outperform human analysts
+
+**Limitations**:
+
+-   Behavioral consistency varies by crime type (Grubin et al., 2001)
+-   Effectiveness drops with time between offenses (Markson et al., 2010)
+-   Requires sufficient behavioral distinctiveness (Woodhams & Toye, 2007)
+
+**Research Finding**: Most empirically supported form of behavioural analysis
+
+::: notes
+Case linkage has strong scientific support compared to other profiling approaches.
+The research shows it works best with specific behavioral markers and geographic features.
+:::
+
+## From Research to Practice: Behavioural Analysis
+
+**Fiction**: Perfect offender profiles
+
+**Research-Based Reality**:
+
+-   Probability statements instead of certainties (Alison et al., 2010)
+-   "Actionable intelligence" approach (Rainbow et al., 2011)
+-   Focused on investigation guidance, not suspect identification
+-   Success measured by investigative value, not profile accuracy
+
+**Research Finding**: Behavioral analysis works best as investigative support, not a "magic bullet"
+
+::: notes
+Research shows that effective behavioral analysis is much more modest in its claims than fictional portrayals.
+The focus should be on providing useful direction to investigations rather than solving cases single-handedly.
+:::
+
+### 5. Emotional & Personality Assessment
+
+# Emotional & Personality Assessment
+
+::: notes
+Let's examine the science behind understanding offender psychology.
+:::
+
+## Diagnostic Reasoning: The Medical Model
+
+**The Concept**: Applying diagnostic frameworks to criminal behavior
+
+**Research Evidence**:
+
+-   Alison et al. (2013): Medical diagnostic models applied to crime analysis
+-   Mellor et al. (2010): Symptom clusters approach for behavioral analysis
+-   Crabbé et al. (2008): Differential diagnosis in crime scene analysis
+
+**Research Findings**:
+
+-   Structured approaches outperform intuitive analysis
+-   Diagnostic frameworks reduce cognitive biases
+-   Reliable for behavioral patterns, not personality traits
+
+::: notes
+The medical model of diagnosis provides a scientific framework that's more reliable than intuitive approaches.
+This approach focuses on observed behaviors rather than speculating about personality.
+:::
+
+## Psychological Autopsy: Scientific Evidence
+
+**The Concept**: Reconstructing a person's mental state posthumously
+
+**Research Evidence**:
+
+\- Isometsä (2001): 90% agreement with ante-mortem diagnoses
+
+\- Hjelmeland et al. (2012): Standardized protocols improve reliability
+
+\- Knoll (2008): Effective for equivocal death determination
+
+**Scientific Applications**:
+
+\- Suicide vs. homicide differentiation (Cooper & Eaves, 1996)
+
+\- Risk factor identification (Cheng et al., 2000)
+
+\- Preventive interventions development (Cavanagh et al., 2003)
+
+**Limitations**: Retrospective bias, information availability, interviewer effects
+
+::: notes
+Psychological autopsy has stronger scientific support than many profiling techniques.
+The research shows it can be reliable when conducted with standardized protocols.
+:::
+
+## Will Graham's "Pure Empathy" vs. Scientific Reality
+
+**The Fiction**: Supernatural ability to "become" the killer
+
+**The Science**:
+
+-   Gröndahl & Kotsou (2022): Professional detectives show enhanced perspective-taking ability
+-   Baker et al. (2013): Expert vs. novice differences in crime scene interpretation
+-   Decety & Moriguchi (2007): Neurological basis of empathy
+
+**Research Findings**:
+
+-   Professional detachment improves accuracy (Ruffman et al., 2012)
+-   Training enhances perspective-taking abilities (Hess et al., 2017)
+-   Structured approaches outperform "pure intuition" (Alison et al., 2013)
+
+::: notes
+Research on empathy and perspective-taking shows that while these skills can be developed, they work best within structured frameworks.
+Professional detachment, rather than emotional immersion, leads to more accurate analysis.
+:::
+
+## Psychopathy: Hollywood vs. Research
+
+**The Fiction**: The brilliant, manipulative psychopath (Hannibal Lecter)
+
+**The Science**:
+
+-   Hare (2003): PCL-R assessment identifies psychopathic traits
+-   Porter et al. (2009): Psychopathy relates to specific crime patterns
+-   Woodworth & Porter (2002): Instrumental vs. reactive violence patterns
+
+**Research Findings**:
+
+-   Psychopathy exists on a spectrum (Edens et al., 2006)
+-   Not all violent offenders are psychopaths (Skeem et al., 2011)
+-   Most psychopaths are not criminal masterminds (Lilienfeld & Arkowitz, 2007)
+
+::: notes
+Research on psychopathy shows it's much more nuanced than typically portrayed in fiction.
+Most real psychopaths lack the brilliance and sophistication of Hannibal Lecter.
+:::
+
+## Structured Assessment: The Research Evidence
+
+**The Concept**: Using validated instruments to assess risk and traits
+
+**Research Evidence**:
+
+-   Douglas & Kropp (2002): Structured instruments outperform clinical judgment
+-   Singh & Fazel (2010): Meta-analysis shows moderate predictive validity
+-   Hart et al. (2007): HCR-20 predicts violence with AUC of .70-.80
+
+**Major Validated Tools**:
+
+-   HCR-20 for violence risk
+-   PCL-R for psychopathy
+-   Static-99 for sexual recidivism
+-   VRAG for general violence
+
+**Research Finding**: Structured tools consistently outperform clinical judgment alone
+
+::: notes
+Research overwhelmingly supports the use of structured assessment instruments over intuitive judgments.
+These tools demonstrate reasonable predictive validity when properly applied.
+:::
+
+## Emotional Assessment: Research to Practice
+
+**Fiction**: Perfect insight into criminal minds
+
+**Research-Based Reality**:
+
+-   Risk probability statements instead of certainties
+-   Focus on behaviors rather than motivations
+-   Emphasis on preventive interventions
+-   Combined methods outperform single approaches
+
+**Research Finding**: Effective assessment requires validated tools, multiple methods, and ongoing review
+
+::: notes
+Research shows that emotional and personality assessment works best when it uses structured tools and focuses on observable behaviors rather than speculative motivation.
+Integrating multiple assessment methods improves reliability.
+:::
+
+### 6. Deception Detection
+
+# Deception Detection Research
+
+::: notes
+Now we'll examine what science tells us about detecting lies.
+:::
+
+## The Truth About Lie Detection: Research Evidence
+
+**Fiction**: Cal Lightman's perfect accuracy reading microexpressions
+
+**Research Reality**:
+
+-   Bond & DePaulo (2006): Meta-analysis of 206 studies shows 54% accuracy (just above chance)
+-   Ekman & O'Sullivan (1991): Even trained professionals rarely exceed 65% accuracy
+-   Vrij et al. (2010): No reliable nonverbal "tell" exists across individuals
+
+**Research Conclusion**: Human ability to detect deception based on behavior is poor
+
+::: notes
+The research consistently shows that human lie detection abilities are much weaker than portrayed in fiction.
+Even trained professionals perform only slightly better than chance in controlled studies.
+:::
+
+## Paul Ekman's Actual Research vs. "Lie To Me"
+
+**The Fiction**: Perfect detection through facial microexpressions
+
+**The Science**:
+
+-   Ekman & Friesen (1969): Identified universal facial expressions
+-   Porter & ten Brinke (2008): Microexpressions occur in only \~2% of deceptive statements
+-   Matsumoto & Hwang (2011): Training improves recognition by 9-22%
+
+**Research Limitations**:
+
+-   Microexpressions occur in both truthful and deceptive individuals
+-   Cultural differences affect expression and interpretation
+-   Training produces modest improvements, not perfection
+
+::: notes
+Ekman's actual research is valuable but has been dramatically overstated in fictional portrayals.
+Microexpressions exist but are much rarer and less reliable than shown in "Lie To Me."
+:::
+
+## Current Scientific Approaches to Lie Detection
+
+**Research-Supported Methods**:
+
+-   Cognitive load techniques (Vrij et al., 2008): 72% accuracy
+-   Strategic use of evidence (Hartwig et al., 2014): 85% accuracy
+-   Reality Monitoring (Masip et al., 2005): 71% accuracy
+-   Computer-assisted linguistic analysis (Fuller et al., 2013): 76% accuracy
+
+**Multi-Method Approaches**:
+
+-   Combined verbal/nonverbal analysis (Porter & ten Brinke, 2010)
+-   Context-sensitive approaches (Blair et al., 2010)
+-   Baseline comparison methods (Vrij, 2008)
+
+::: notes
+Research shows that newer approaches to deception detection show promise.
+The most effective methods focus on cognitive aspects rather than nonverbal "tells." Multi-method approaches consistently outperform single-method detection.
+:::
+
+## From Research to Practice: Deception Detection
+
+**Fiction**: Instant lie detection through facial analysis
+
+**Research-Based Reality**:
+
+-   Strategic interviewing techniques (Vrij et al., 2015)
+-   Information-gathering approaches (Meissner et al., 2012)
+-   Unanticipated questions method (Vrij et al., 2009)
+-   Cognitive credibility assessment (Vrij et al., 2017)
+
+**Research Finding**: Effective deception detection requires structured approaches and multiple methods
+
+::: notes
+Research demonstrates that deception detection works best through strategic interviewing rather than passive observation.
+This contradicts the typical Hollywood portrayal of the human lie detector.
+:::
+
+### 7. Evaluating Profiling Effectiveness
+
+# Can Profiling Actually Work? The Evidence
+
+::: notes
+Let's critically examine the scientific evidence for profiling's effectiveness.
+:::
+
+## Approaches to Evaluating Effectiveness
+
+Six ways researchers assess if profiling works:
+
+1.  Expert perception studies
+2.  Systematic reviews/meta-analyses
+3.  Testing core assumptions
+4.  Profile accuracy studies
+5.  Content analysis of profiles
+6.  Utility testing in investigations
+
+**Research Question**: Does profiling provide value beyond chance?
+
+::: notes
+Understanding how profiling is evaluated scientifically helps us separate evidence from myth.
+Multiple methodologies are needed to fully assess profiling's effectiveness.
+:::
+
+## Systematic Reviews & Meta-analyses
+
+**Key Research**:
+
+-   Snook et al. (2007): Profilers outperform non-profilers (62% vs. 38%)
+-   Dowden et al. (2007): Geographic profiling shows strongest empirical support
+-   Fox & Farrington (2018): Statistical approaches outperform clinical methods
+
+**Research Findings**:
+
+-   Modest evidence for profiling expertise effect
+-   Stronger support for geographic than psychological profiling
+-   Some profiling elements have empirical validity
+
+::: notes
+Scientific reviews of profiling show mixed evidence for its effectiveness.
+Statistical approaches consistently outperform clinical judgment methods.
+:::
+
+## Testing Core Assumptions: Research Evidence
+
+**Key Studies**:
+
+-   Doan & Snook (2008): No empirical support for Holmes & Holmes typologies
+-   Mokros & Alison (2002): Limited support for homology assumption
+-   Woodhams & Toye (2007): Moderate support for behavioral consistency
+
+**Research on Profile Content**:
+
+-   Torres et al. (2006): 80% of profiles lack structured argumentation
+-   Alison et al. (2003): Under 31% of profile statements are falsifiable
+-   Copson et al. (2010): Barnum effect in profile evaluation
+
+::: notes
+Research testing the core assumptions of profiling finds limited support.
+Many profiles contain vague statements that could apply to many offenders.
+:::
+
+## Utility Testing: A Reason for Hope
+
+**Promising Research**:
+
+-   [Fox & Farrington (2015): Statistical Patterns of Offending Typology SPOT burglary profiling showed positive impact](https://cebcp.org/evidence-based-policing/the-matrix/individuals/individuals-fox-and-farrington-2015/)
+-   Kocsis (2006): Structured profiles improved investigative efficiency
+-   Knabe-Nicol & Alison (2011): Investigators report practical value
+
+**Key Elements of Successful Applications**:
+
+-   Focus on actionable intelligence
+-   Integration with other investigative methods
+-   Statistical rather than clinical approach
+-   Specific rather than general claims
+
+::: notes
+Research on the practical utility of profiling shows more promise than tests of theoretical accuracy.
+When profiling focuses on practical investigative guidance, it shows greater value.
+:::
+
+## What Real-Life Profilers Actually Do
+
+**Daily Work Reality**:
+
+-   Risk assessments for violence/recidivism (Heilbrun et al., 2017)
+-   Court-ordered evaluations (Otto & Heilbrun, 2002)
+-   Standardized psychological testing (Archer et al., 2006)
+-   Consultation on interview strategies (Vrij et al., 2017)
+
+**Research Finding**: Forensic psychology practice differs substantially from TV portrayals
+
+::: notes
+The actual work of forensic psychologists focuses more on structured assessment and consultation than dramatic crime-solving.
+This creates a significant gap between public perception and practice reality.
+:::
+
+## The Elements Worth Believing In: Research Evidence
+
+Research shows some elements of profiling **do** work:
+
+-   **Geographic profiling**: Strong statistical foundations (Rossmo, 2000)
+-   **Behavioral linkage**: Connecting series of crimes (Woodhams et al., 2007)
+-   **Statistical methods**: Data-driven approaches show promise (Canter et al., 2013)
+-   **Structured professional judgment**: Combining expertise with tools (Guy et al., 2012)
+-   **Team-based approaches**: Multiple perspectives yield better results (Alison et al., 2015)
+
+::: notes
+While the Hollywood version of profiling lacks scientific support, specific elements have demonstrated value.
+The research suggests focused applications rather than broad profiling claims.
+:::
+
+### 8. The Digital Transformation
+
+# The Evolution of Profiling: Digital Research
+
+::: notes
+Now we'll explore how digitalization is transforming profiling practices!
+Surely this is crucial?
+:::
+
+## Key Transformations in Criminal Profiling: Research
+
+Based on Mateo-Fernandez & Osa-Subtil (2024):
+
+-   Traditional approach: Based on physical environment patterns
+
+-   Digital era approach: Incorporates digital footprints and online behavior
+
+-   
+
+    > 70% of criminal profiles now include social media analysis
+
+-   AI algorithms significantly enhance profile accuracy
+
+**Research Finding**: Digital environments provide rich behavioral data
+
+::: notes
+Recent research shows how profiling is evolving to incorporate digital evidence.
+This represents a significant advancement in behavioral analysis techniques.
+:::
+
+## Digital Tools & Techniques: Empirical Evidence
+
+**Research-Supported Approaches**:
+
+\- **Social Network Analysis**: Relationship mapping (Décary-Hétu & Morselli, 2011)
+
+\- **AI & Machine Learning**: Pattern detection (Brundage et al., 2018)
+
+\- **Predictive Analytics**: Risk assessment (Wang et al., 2019)
+
+\- **Dark Web Monitoring**: Criminal activity tracking (Mirea et al., 2019)
+
+**Effectiveness Research**:
+
+\- Accuracy rates 15-30% higher than traditional methods (Mateo-Fernandez & Osa-Subtil, 2024)
+
+\- Reduced investigative time by average of 64% (Chen et al., 2018)
+
+::: notes
+Research demonstrates that digital analysis tools provide measurable improvements in profiling accuracy.
+These technologies represent the cutting edge of behavioral analysis in investigations.
+:::
+
+## Enhanced Interdisciplinary Collaboration: Research
+
+**The Approach**: Integrating experts from multiple fields
+
+**Research Evidence**:
+
+-   Interdisciplinary teams generate 37% more investigative leads (Taylor et al., 2021)
+-   Multi-domain analysis improves predictive accuracy by 28% (Johnson & Smith, 2018)
+-   Cross-field data sharing reduces case resolution time (Park et al., 2022)
+
+**Key Collaborations**:
+
+-   Cybersecurity + forensic psychology (Greene & Thomas, 2023)
+-   Data science + criminology (Wilson & Brady, 2020)
+-   Behavioral science + digital forensics (Alison & Crego, 2019)
+
+::: notes
+Research demonstrates the value of breaking down silos between disciplines.
+Collaboration between technical and psychological experts produces better results than either approach alone.
+:::
+
+## Advanced AI in Profiling: Research Evidence
+
+**Research Developments**:
+
+-   Natural language processing for threat detection (Scrivens et al., 2018)
+-   Computer vision for behavioral analysis (Wang et al., 2020)
+-   Machine learning for offender linking (Ozkan, 2017)
+-   Neural networks for risk prediction (Berk & Bleich, 2013)
+
+**Empirical Findings**:
+
+-   Algorithmic approaches achieve 76-89% accuracy in offender classification (Braga et al., 2019)
+-   AI-assisted geographic profiling outperforms human analysts by 27% (Rossmo & Rombouts, 2021)
+-   Sentiment analysis detects concerning patterns missed by humans (Burnap et al., 2015)
+
+::: notes
+Research on AI applications shows significant improvements over traditional methods.
+These technologies can detect patterns that human analysts might miss.
+:::
+
+## Ethical & Methodological Research Standards
+
+**Research Challenges**:
+
+-   Privacy concerns in digital profiling (Brantingham et al., 2018)
+-   Algorithmic bias in predictive systems (Berk et al., 2021)
+-   Authentication of digital evidence (Casey, 2019)
+-   Cross-platform analytical integration (Décary-Hétu & Aldridge, 2015)
+
+**Research-Based Solutions**:
+
+-   Transparent algorithmic design (Oswald et al., 2018)
+-   Validity testing protocols (Babuta et al., 2020)
+-   Ethical guidelines specific to digital profiling (Alison et al., 2017)
+-   Privacy-preserving analysis methods (Mittelstadt et al., 2016)
+
+::: notes
+Research highlights both the promises and ethical challenges of new profiling technologies.
+Developing appropriate ethical frameworks is essential for responsible application.
+:::
+
+## Future Directions: Research Frontiers
+
+Based on emerging research:
+
+-   Further development of AI tools for early threat detection
+-   Continued interdisciplinary collaboration and research
+-   Addressing ethical implications of digitalization
+-   Creating more sophisticated models for understanding criminal behavior
+-   Integration of offline and online behavioral analysis
+-   Standardization of digital profiling methodologies
+
+::: notes
+The research points to several promising directions for improving profiling accuracy.
+The field continues to evolve with new technologies and methodologies.
+:::
+
+### 9. Conclusion: What Science Supports
+
+## The Elements Worth Believing In: Research Summary
+
+Research supports several profiling components:
+
+-   **Geographic analysis**: Strong empirical foundation (Rossmo, 2000; Bernasco, 2010)
+-   **Behavioral consistency**: Moderate support for linked crimes (Woodhams et al., 2007)
+-   **Statistical approaches**: Data-driven methods outperform intuition (Snook et al., 2007)
+-   **Digital behavioral analysis**: Growing evidence base (Mateo-Fernandez & Osa-Subtil, 2024)
+-   **Structured assessment tools**: Validated instruments improve accuracy (Douglas & Kropp, 2002)
+
+**Research Conclusion**: Specific elements work, but not the Hollywood whole
+
+::: notes
+Research supports specific components of profiling while challenging the Hollywood portrayal.
+The scientific evidence suggests a more limited but still valuable role for profiling techniques.
+:::
+
+## Toward a Better Profiling Future: Research Implications
+
+Based on cumulative research evidence:
+
+-   **Greater scientific rigor**: Testing claims empirically
+-   **Falsifiable predictions**: Making testable statements
+-   **Transparent methods**: Documenting analytical processes
+-   **Integrated approaches**: Combining multiple techniques
+-   **Technology-enhanced analysis**: Using algorithms to support human judgment
+-   **Interdisciplinary collaboration**: Breaking down field boundaries
+
+::: notes
+The research points toward a more scientifically grounded approach to profiling.
+Future developments will likely focus on empirical validation and technological integration.
+:::
+
+## Why Believing Matters: Research and Development
+
+The profiling myth drives important advancements: - Interest in behavioral science research - Funding for empirical studies - Critical examination of investigative methods - Development of better analytical tools - Public engagement with forensic psychology
+
+**Research Finding**: The quest to understand criminal behavior has scientific value
+
+::: notes
+While the Hollywood version of profiling lacks scientific support, the pursuit itself has value.
+Research driven by profiling questions has advanced our understanding of criminal behaviour.
+:::
+
+## Conclusion: The Truth Is Out There
+
+**The Research Verdict**:
+
+-   Perfect TV profiler doesn't exist
+-   Elements of profiling have empirical support
+-   Scientific methods continue to improve
+-   The field evolves through critical examination
+
+**The Final Research Truth** : Real profiling isn't as dramatic as TV, but the quest to understand the criminal mind remains a worthwhile scientific journey.
+
+*I want to believe...*
+
+::: notes
+The research shows that while the Hollywood version of profiling is largely fictional, there is scientific value in the pursuit of understanding criminal behaviour.
+A critical, evidence-based approach offers the best path forward.
+:::
+
+## References {.smaller}
+
+Alison, L., Smith, M. D., & Morgan, K.
+(2003).
+Interpreting the accuracy of offender profiles.
+Psychology, Crime & Law, 9(2), 185-195.
+
+Ambady, N., & Rosenthal, R.
+(1992).
+Thin slices of expressive behavior as predictors of interpersonal consequences: A meta-analysis.
+Psychological Bulletin, 111(2), 256-274.
+
+Bond, C. F., & DePaulo, B. M.
+(2006).
+Accuracy of deception judgments.
+Personality and Social Psychology Review, 10(3), 214-234.
+
+Canter, D., & Heritage, R.
+(1990).
+A multivariate model of sexual offence behaviour: Developments in 'offender profiling'.
+The Journal of Forensic Psychiatry, 1(2), 185-212.
+
+Gosling, S. D., Ko, S. J., Mannarelli, T., & Morris, M. E.
+(2002).
+A room with a cue: Personality judgments based on offices and bedrooms.
+Journal of Personality and Social Psychology, 82(3), 379-398.
+
+Mateo-Fernandez, P.V., & Osa-Subtil, I.
+(2024).
+The Evolution of Criminal Profiling in the Digital Age: An Approach from Clinical Forensic Psychology.
+International Journal of Forensic Sciences, 9(4), 000427.
+
+Mokros, A., & Alison, L. J.
+(2002).
+Is offender profiling possible?
+Testing the predicted homology of crime scene actions and background characteristics in a sample of rapists.
+Legal and Criminological Psychology, 7(1), 25-43.
+
+Rossmo, D. K.
+(2000).
+Geographic profiling.
+CRC Press.
+
+Snook, B., Eastwood, J., Gendreau, P., Goggin, C., & Cullen, R. M.
+(2007).
+Taking stock of criminal profiling: A narrative review and meta-analysis.
+Criminal Justice and Behavior, 34(4), 437-453.
+
+Vrij, A., Mann, S., & Fisher, R. P. (2006).
+An empirical test of the behaviour analysis interview.
+Law and Human Behavior, 30(3), 329-345.
+
+Woodhams, J., & Toye, K.
+(2007).
+An empirical test of the assumptions of case linkage and offender profiling with serial commercial robberies.
+Psychology, Public Policy, and Law, 13(1), 59-85.
+
+Youngs, D., & Canter, D. V. (2012).
+Narrative roles in criminal action: An integrative framework for differentiating offenders.
+Legal and Criminological Psychology, 17(2), 233-249.
+
+::: notes
+This slide provides the key references that support the major points made above.
+:::
+
+## What can you actually do?
+
+-   Profiling is currently evolving from an "art form" to a science-based tool
+-   Research in Psychology provides a systematic, evidence-based approach
+-   Training in structured assessment methods produces more reliable results
+-   Validated tools like geographic profiling show measurable effectiveness
+-   Research demonstrates the value of interdisciplinary collaboration
+-   Digital analysis methods offer promising new directions
+-   The most effective approaches combine human expertise with analytical tools
+
+**Research tells us**: Focus on what works, not what we wish would work
+
+::: notes
+Some practical takeaways based on the research evidence.
+Focus on what actually works rather than the Hollywood fantasy.
+:::
+
+## I Still Want to Believe...
+
+The perfect profiler doesn't exist, but research supports:
+
+-   Using structured analytical methods
+-   Focusing on behavioral patterns rather than personality
+-   Employing validated assessment tools
+-   Leveraging geographic and digital analysis
+-   Building interdisciplinary teams
+-   Maintaining scientific skepticism
+
+**The truth is out there**...it's just more nuanced than TV suggests.
+
+::: notes
+I am actually not that skeptical about the feasibility of profiling-adjacent research and employment now.
+:::
+
+## Some Hare-Brained Schemes for Aspiring Profilers
+
+### Operation Reddington
+
+-   Become international criminal mastermind while maintaining impeccable fashion sense
+-   Build elaborate global crime network while collecting fine art and rare wines
+-   Turn yourself in specifically to the most earnest-looking FBI rookie
+-   Insist on speaking only to the agency director while maintaining mysterious smirk
+-   Offer to catch "much worse criminals" while never fully explaining your motives
+
+::: notes
+"The Blacklist" - gotta love Red!
+:::
+
+### The 'Murder Magnet' Phenomenon
+
+-   Buy quaint cottage in small town with suspiciously high murder rate
+-   Take up harmless hobby that gives you reason to wander into crime scenes
+-   Befriend local police inspector despite their initial annoyance
+-   Casually mention "psychological inconsistencies" at murder scenes
+-   Begin every revelation with "Well, isn't it curious that..."
+-   Slowly become indispensable while town's murder rate mysteriously increases
+
+::: notes
+See "cozy mystery" genre like "Murder, She Wrote" and similar shows.
+:::
+
+### The "Podcast Made Me Do It" Gambit
+
+-   Launch a true crime podcast called "Profiles in Profile-ing"
+-   Analyze famous cases with increasingly outlandish psychological theories
+-   Attract the attention of a serial killer who starts leaving clues specifically for you
+-   Become the "reluctant consultant" when police realize the killer will only communicate through you
+-   Eventually get your own FBI lanyard that everyone pretends is official
+
+::: notes
+This references "Only Murders in the Building" or "My favourite murderer." - Stay classy and Don't Get Murdered!
+:::
+
+### The "Academic with a Twist" Approach
+
+-   Become a second-rate psychology lecturer specializing in "theoretical criminal behaviour"
+-   Write controversial paper challenging profiling methods
+-   Get invited to debate techniques by annoyed profiler
+-   Solve actual case during heated academic argument, entirely by accident
+-   Receive reluctant job offer with lots of sabbatical leave
+
+::: notes
+This is a gentle self-deprecating joke about academics - honestly.
+:::
+
+## When you still don't get hired to solve crimes...
+
+-   You can make a fortune consulting in business and move to Mauritius for the summer and winter in Gstaad!
+-   Apply your "thin slicing" skills to predict which corporate mergers will fail
+-   Use your "snooping" expertise to become an office design consultant
+-   Rebrand "cold reading" as "intuitive executive coaching" and triple your fees
+-   Start referring to suspicious Excel spreadsheets as showing "patterns consistent with embezzlement"
+-   Develop a "Psychological Autopsy" service for failed product launches
+
+**Remember:** A good trench coat, unusual personal habits, and the ability to make profound statements while staring dramatically into the distance are essential to any post-academic career!
+
+::: notes
+You've got to have a dream, right?
+This is my plan for when Goldsmiths goes pop!
+:::
